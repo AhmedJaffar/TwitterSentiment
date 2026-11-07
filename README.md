@@ -1,5 +1,11 @@
 # TwitterSentiment
+
+![Python](https://img.shields.io/badge/Python-3.9--3.11-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-LSTM-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
 Does twitter sentiment analysis correlate to stock prices
+
+Full write-up: [ahmedjaffar.ca/projects/sentiment-analysis](https://ahmedjaffar.ca/projects/sentiment-analysis/)
 
 ## Requirements
 - Python 3.9-3.11 (https://www.python.org/downloads/release/python-3118/)  
